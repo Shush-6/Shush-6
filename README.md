@@ -73,9 +73,3 @@
 
 ---
 
-### 🚀 Goals
-- 💡 Crack **top tech internships (₹40+ LPA)**
-- 🔐 Build strong projects in **Cybersecurity + Full Stack**
-- 🌍 Contribute to **Open Source**
-
----
