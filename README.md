@@ -9,16 +9,6 @@
 - 👯 Open to collaborate on **Full Stack & Open Source Projects**
 - 📫 Reach me at: **suhawaniwork@gmail.com**
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.leetcode.com/suhawani110" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
 
 ### 🧠 Languages
 <p>
