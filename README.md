@@ -34,16 +34,14 @@
 
 ## 📊 GitHub Stats & Metrics
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-Click%20Graph%20Below-3ECF8E?style=for-the-badge&logo=github" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Main%20Stack-MERN%20%2F%20Flutter-61DAFB?style=for-the-badge&logo=react" alt="Stack" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170" />
+</p>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shush-6&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&v=2" height="300" alt="activity-graph graph" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shush-6&theme=github_dark" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Shush-6&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=Shush-6&color=brightgreen&style=flat)
