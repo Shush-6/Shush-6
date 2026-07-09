@@ -32,20 +32,16 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&v=1" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true&v=1" height="160" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shush-6&theme=vision-friendly-dark&hide_border=true&v=1" height="160" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-Click%20Graph%20Below-3ECF8E?style=for-the-badge&logo=github" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Main%20Stack-MERN%20%2F%20Flutter-61DAFB?style=for-the-badge&logo=react" alt="Stack" />
+</div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shush-6&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&v=1" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shush-6&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&v=2" height="300" alt="activity-graph graph" />
 </div>
 
 ---
