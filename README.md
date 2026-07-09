@@ -6,7 +6,7 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
 <img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
-🌐 Full stak developer  <br>💻 Passionate about building responsive and interactive experiences  <br>🚀 Always learning and experimenting with dev technologies  <br> ✨I make things happen <be>
+🌐 Full stack developer  <br>💻 Passionate about building responsive and interactive experiences  <br>🚀 Always learning and experimenting with dev technologies  <br> ✨I make things happen <be>
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -32,11 +32,17 @@
 
 
 # 📊 GitHub Stats:
-![Suhawani-who's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true" alt="Suhawani's GitHub Streak" />
+</p>
 
-![Suhawani-who's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuah-6&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shush-6&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
-![Suhawani-who's Stats](https://github-readme-stats.vercel.app/api?username=Shush-6&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shush-6&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 <div align="center">
   <br>
