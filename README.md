@@ -32,16 +32,18 @@
 
 
 # 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true" alt="Suhawani's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shush-6&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shush-6&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shush-6&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <div align="center">
