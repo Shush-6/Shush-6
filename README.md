@@ -1,4 +1,4 @@
-# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F3F3F&center=true&width=435&lines=Hii,+Pratyush+Here!)](https://github.com/Pratyush-who)
+# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F3F3F&center=true&width=435&lines=Hii,+Suhawani+Here!)](https://github.com/Shush-6)
 
 <div align="center">
 <!--   <img height="350" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  /> -->
