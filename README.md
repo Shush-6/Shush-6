@@ -35,17 +35,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&v=1" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true&v=1" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.eloyalo.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shush-6&theme=vision-friendly-dark&hide_border=true&v=1" height="160" alt="GitHub Streak" />
 </p>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shush-6&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shush-6&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph&v=1" height="300" alt="activity-graph graph" />
 </div>
 
 ---
