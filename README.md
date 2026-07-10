@@ -39,8 +39,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-garnet.vercel.app/?user=Shush-6&theme=vision-friendly-dark&hide_border=true&v=3" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-garnet.vercel.app/?username=Shush-6&theme=vision-friendly-dark&hide_border=true&v=4" height="160" alt="GitHub Streak" />
 </p>
+
 
 <div align="center">
   <br>
