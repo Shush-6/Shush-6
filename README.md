@@ -38,9 +38,9 @@
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
-![Shush-6's Streak](https://github-readme-streak-stats-garnet.vercel.app/?username=Shush-6&theme=vision-friendly-dark&hide_border=true&v=5)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true&v=6" height="160" alt="GitHub Streak" />
+</p>
 
 <div align="center">
   <br>
