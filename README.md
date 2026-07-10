@@ -37,9 +37,9 @@
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Shush-6&layout=compact&theme=vision-friendly-dark&hide_border=true" height="160" alt="Top Languages" />
 </p>
-
-![Shush-6's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true)
-
+<p align="center">
+![Shush-6's Streak](https://github-readme-streak-stats-garnet.vercel.app/?username=Shush-6&theme=vision-friendly-dark&hide_border=true&v=5)
+</p>
 
 
 <div align="center">
