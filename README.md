@@ -1,13 +1,13 @@
-# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F3F3F&center=true&width=435&lines=Hii,+Suhawani+Here!)](https://github.com/Shush-6)
+<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width="220px" alt="developer gif">
 
-<div align="center">
-<!--   <img height="350" src="https://github.com/PratikMane0112/PratikMane0112/blob/main/hack.gif"  /> -->
-</div>
+# Hey there! I'm Suhawani
 
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
-<img align = "right" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width = 250px></img>
-🌐 Full stack developer  <br>💻 Passionate about building responsive and interactive experiences  <br>🚀 Always learning and experimenting with dev technologies  <br> ✨I make things happen <be>
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Skills
+full stack dev focused on building, deploying, and scaling systems. 
+
+
+
+
+## Skills
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -31,7 +31,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
@@ -51,5 +51,5 @@
 [![](https://visitcount.itsvg.in/api?id=Shush-6&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=Shush-6&color=brightgreen&style=flat)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shush-6&theme=radical&no-frame=false&no-bg=false&margin-w=4)
