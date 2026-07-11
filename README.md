@@ -35,9 +35,7 @@ full stack dev focused on building, deploying, and scaling systems.
 
 <p align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=Shush-6&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-</p>
 
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shush-6&theme=vision-friendly-dark&hide_border=true&v=6" height="160" alt="GitHub Streak" />
 </p>
 
